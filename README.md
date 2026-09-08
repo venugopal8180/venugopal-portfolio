@@ -47,8 +47,8 @@ This site can be hosted on GitHub Pages or any static hosting provider. To use G
 
 Please replace the contact placeholder below with your preferred email or social links:
 
-- Email: your.email@example.com
-- Twitter/GitHub/LinkedIn: @yourhandle
+- Email: venugopalrvg9@gmail.com.com
+- LinkedIn: http://www.linkedin.com/in/ramireddyvenugopal
 
 ## License
 
